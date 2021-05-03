@@ -1,6 +1,6 @@
 # ebook lập trình miễn phí
 
-## group: https://www.facebook.com/groups/learningcplusplus
+## group: https://www.facebook.com/groups/hoctuduylaptrinh
 
 ## Twitter: https://twitter.com/thecodebugs
 
